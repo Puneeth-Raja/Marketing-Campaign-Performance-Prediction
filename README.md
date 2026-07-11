@@ -183,10 +183,10 @@ Examples include:
 
 | Metric | Score |
 |---------|-------|
-| Accuracy | 77.55% |
-| Precision | 70.41% |
+| Accuracy | 99.67% |
+| Precision | 99.70% |
 | Recall | 100% |
-| F1 Score | 98.64% |
+| F1 Score | 99.64% |
 
 ---
 
