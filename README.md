@@ -186,7 +186,7 @@ Examples include:
 | Accuracy | 77.55% |
 | Precision | 70.41% |
 | Recall | 100% |
-| F1 Score | 82.64% |
+| F1 Score | 98.64% |
 
 ---
 
